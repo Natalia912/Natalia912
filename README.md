@@ -4,4 +4,4 @@ I am a Frontend developer thats specializes in working with React.js, Vue.js, Ja
 
 My current personal projects:
 - Personal portfolio. I am revamping my personal portfolio application to improve the design and user experience. The tech I'm using: Next.js, TypeScript + Sanity CMS.
-- Backend solution for a music composition application that allows users to manage and play their compositions in real-time. The backend is build using Python, FastAPI, and PostgreSQL.
+- Backend solution for a music composition application that allows users to manage and play their compositions in real-time. The backend is built using Python, FastAPI, and PostgreSQL.
